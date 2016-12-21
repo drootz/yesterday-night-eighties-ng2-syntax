@@ -1,0 +1,47 @@
+.gfm {
+  -webkit-font-smoothing: auto;
+
+  .marker {
+    color: @111111;
+  }
+
+  .bold {
+    color: @333333;
+    font-style: bold;
+  }
+
+  .italic {
+    color: @777777;
+    font-style: italic;
+  }
+
+  .quote {
+    color: @444444;
+  }
+
+  .list {
+    color: @555555;
+  }
+
+  .link {
+    color: @666666;
+
+    & .entity {
+      color: @foreground;
+    }
+
+    & .begin,
+    & .end {
+      background-color: fadeout(@666666, 93%);
+    }
+  }
+
+  .raw {
+    color: darken(@foreground, 12%);
+  }
+
+  .hr {
+    background-color: @current-line;
+    color: @foreground;
+  }
+}

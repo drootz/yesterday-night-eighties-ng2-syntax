@@ -1,0 +1,100 @@
+.js {
+  &.constant.other.property {
+    color: @foreground;
+  }
+
+  &.keyword.operator {
+    color: @555555;
+  }
+
+  &.variable {
+    color: @foreground;
+
+    &.class {
+      color: @111111;
+    }
+
+    &.language {
+      color: @111111;
+    }
+  }
+
+  &.string.unquoted {
+    color: @foreground;
+  }
+
+  &.support {
+    &.constant {
+      color: @foreground;
+    }
+
+    &.object {
+      color: @333333;
+    }
+
+    &.variable {
+      color: @333333;
+    }
+  }
+
+  &.meta.brace.square {
+    color: @666666;
+    background-color: fadeout(@666666, 93%);
+  }
+
+  &.meta.brace.curly {
+    color: @111111;
+    background-color: fadeout(@111111, 93%);
+  }
+
+  &.meta.brace.round {
+    color: @555555;
+    background-color: fadeout(@555555, 93%);
+  }
+
+  &.meta.delimiter.period,
+  &.meta.delimiter.comma {
+    color: @555555;
+  }
+
+  &.meta.group.braces.round.function.arguments {
+    color: @555555;
+  }
+
+  &.punctuation {
+    &.separator.key-value {
+      color: @555555;
+    }
+
+    &.definition {
+      &.string {
+        color: @444444;
+        background-color: fadeout(@444444, 93%);
+      }
+
+      &.parameters {
+        color: @555555;
+        background-color: fadeout(@555555, 93%);
+      }
+
+      &.arguments {
+        color: @555555;
+        background-color: fadeout(@555555, 93%);
+      }
+
+      &.bracket.curly {
+        color: @111111;
+        background-color: fadeout(@111111, 93%);
+      }
+    }
+
+    &.section.class {
+      color: @111111;
+      background-color: fadeout(@111111, 93%);
+    }
+
+    &.terminator.statement {
+      color: @333333;
+    }
+  }
+}
