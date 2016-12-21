@@ -3,7 +3,7 @@
 [![apm](https://img.shields.io/apm/v/yesterday-night-eighties-ng2-syntax.svg)](https://atom.io/packages/yesterday-night-eighties-ng2-syntax)
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/drootz/yesterday-night-eighties-ng2-syntax/blob/master/LICENSE)
 
-Atom syntax theme using Vibrant and Raw colors from the 80's theme with support for Angular 2 HTML syntax.
+Atom syntax theme using flashy colors from the 80's with support for Angular 2 HTML syntax.
 
 ![](https://raw.githubusercontent.com/drootz/yesterday-night-eighties-ng2-syntax/master/img/preview-palettes.png)
 

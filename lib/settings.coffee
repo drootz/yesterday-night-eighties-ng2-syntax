@@ -4,10 +4,10 @@ module.exports =
       title: 'Syntax Variant'
       description: 'Chose your theme'
       type: 'string'
-      default: 'Vibrant'
+      default: 'Raw'
       enum: [
-        'Vibrant',
-        'Raw'
+        'Raw',
+        'Vibrant'
       ]
   activate: (state) ->
     console.log "Activate"
