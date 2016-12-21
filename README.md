@@ -12,7 +12,7 @@ Atom syntax theme using flashy colors from the 80's with support for Angular 2 H
 
 ## Features
 - Angular 2 HTML syntax highlighting.
-- Dark and Light theme in the same package.
+- Raw and Vibrant theme in the same package.
 
 ## Installation
 
