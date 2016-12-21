@@ -34,13 +34,13 @@ Work best with the [material-ui](https://atom.io/themes/material-ui) ui theme.
 
 ## Themes
 
-### Vibrant (default)
+### Raw (default)
 
-![](https://raw.githubusercontent.com/drootz/yesterday-night-eighties-ng2-syntax/master/img/preview-dark.png)
+![](https://raw.githubusercontent.com/drootz/yesterday-night-eighties-ng2-syntax/master/img/preview-raw.png)
 
-### Raw
+### Vibrant
 
-![](https://raw.githubusercontent.com/drootz/yesterday-night-eighties-ng2-syntax/master/img/preview-light.png)
+![](https://raw.githubusercontent.com/drootz/yesterday-night-eighties-ng2-syntax/master/img/preview-Vibrant.png)
 
 ***
 
