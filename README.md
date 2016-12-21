@@ -40,7 +40,7 @@ Work best with the [material-ui](https://atom.io/themes/material-ui) ui theme.
 
 ### Vibrant
 
-![](https://raw.githubusercontent.com/drootz/yesterday-night-eighties-ng2-syntax/master/img/preview-Vibrant.png)
+![](https://raw.githubusercontent.com/drootz/yesterday-night-eighties-ng2-syntax/master/img/preview-vibrant.png)
 
 ***
 
